@@ -1,0 +1,15 @@
+* Lütfen Pizzanızı Seçiniz:
+1: Klasik
+2: Margarita
+3: Türk Pizza 
+4: Sade Pizza
+5: Kavurmalı Pizza
+* Ekstra Malzemeler :
+11: Zeytin
+12: Mantar
+13: Keçi Peyniri
+14: Et
+15: Soğan
+16: Mısır
+17:Hindi Füme
+* Teşekkür ederiz !
